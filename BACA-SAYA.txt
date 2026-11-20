@@ -1,0 +1,20 @@
+PENGINGAT TUGAS - PAKET APLIKASI ANDROID (PWA)
+
+Isi paket: index.html, manifest.webmanifest, sw.js, icon-192.png, icon-512.png
+
+CARA 1 - Pasang langsung dari Chrome (paling mudah, tanpa APK)
+1. Unggah seluruh isi folder ini ke hosting HTTPS gratis, misalnya Netlify Drop (app.netlify.com/drop),
+   GitHub Pages, atau Cloudflare Pages. Cukup tarik dan lepas folder-nya.
+2. Buka alamat hasilnya di Chrome Android.
+3. Ketuk menu titik tiga > "Instal aplikasi" (atau "Tambahkan ke layar utama").
+4. Aplikasi muncul di layar utama dan terbuka layar penuh, juga saat offline.
+
+CARA 2 - Jadikan file APK/AAB
+1. Setelah langkah 1 cara di atas selesai, buka pwabuilder.com dan masukkan alamat situsnya.
+2. Pilih Android > Generate Package, lalu unduh paketnya.
+3. File APK bisa dipasang manual di ponsel (izinkan "pasang dari sumber tidak dikenal").
+
+CATATAN
+- Data tugas tersimpan di penyimpanan aplikasi pada ponsel itu saja.
+- Notifikasi muncul saat aplikasi terbuka atau masih berjalan di latar belakang.
+  Untuk alarm yang pasti berbunyi saat aplikasi tertutup, dibutuhkan aplikasi native (misalnya Capacitor + Local Notifications).
