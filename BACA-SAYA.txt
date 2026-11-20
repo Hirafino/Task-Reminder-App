@@ -1,4 +1,4 @@
-PENGINGAT TUGAS - PAKET APLIKASI ANDROID (PWA)
+TASK REMINDER - PAKET APLIKASI ANDROID (PWA)
 
 Isi paket: index.html, manifest.webmanifest, sw.js, icon-192.png, icon-512.png
 

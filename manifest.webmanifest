@@ -1,7 +1,7 @@
 {
-  "name": "Pengingat Tugas",
-  "short_name": "Tugas",
-  "description": "Pengingat tugas dengan kalender dan catatan",
+  "name": "Task",
+  "short_name": "Task",
+  "description": "Task Reminder with calendar and notes",
   "lang": "id",
   "start_url": "./index.html",
   "scope": "./",
