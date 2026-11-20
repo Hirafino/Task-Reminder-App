@@ -12,7 +12,12 @@ CARA 1 - Pasang langsung dari Chrome (paling mudah, tanpa APK)
 CARA 2 - Jadikan file APK/AAB
 1. Setelah langkah 1 cara di atas selesai, buka pwabuilder.com dan masukkan alamat situsnya.
 2. Pilih Android > Generate Package, lalu unduh paketnya.
-3. File APK bisa dipasang manual di ponsel (izinkan "pasang dari sumber tidak dikenal").
+3. Sebelum Generate, buka Options > Android dan isi warna bilah sistem:
+   - Status bar color: #18358B
+   - Navigation bar color: #eef1f5
+   - Navigation bar color (dark): #0f1524
+   Di cara ini warna bilah navigasi bawah (tombol kembali dan beranda) bisa mengikuti mode gelap.
+4. File APK bisa dipasang manual di ponsel (izinkan "pasang dari sumber tidak dikenal").
 
 CATATAN
 - Data tugas tersimpan di penyimpanan aplikasi pada ponsel itu saja.
